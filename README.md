@@ -7,4 +7,5 @@ HD Camera placed outside the room.
 
 The Video was then processed by using pyrtools and OpenCV to regenerate the original audio signal.
 
-Read the article below to understand the concept better: https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf
+Read the article below to understand the concept better:
+https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf
